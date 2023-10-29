@@ -1,5 +1,5 @@
 # OIBSIP
-Within this repository, you can find all the projects I did during my time as a Web Development and Design Intern at Oasis.
+Within this repository, you can find all the projects I did during my time as a Web Development and Design Intern at Oasis Infobyte.
 
 I performed 3 tasks during this internship.
 # TASK-1: LANDING PAGE
