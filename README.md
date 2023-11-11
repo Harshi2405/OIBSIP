@@ -10,7 +10,7 @@ A landing page is one of the best web development projects for beginners. This p
 
 You can create a personal portfolio with the basic skills in CSS and HTML. This is yet again, one of the most common projects on web development for beginners. In a personal portfolio, you get to show a wide range of samples and skills and add your resume. You can add an image at the top where you can introduce yourself; below that, you can add contact information.
 
-# TAsK-3: TEMPERATURE CONVERTER WEBSITE
+# TASK-3: TEMPERATURE CONVERTER WEBSITE
 
 The user will input a temperature in either Fahrenheit or Celsius and press a "convert" button. The converted temperature will then be displayed with the correct unit.
 
